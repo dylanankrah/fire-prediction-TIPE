@@ -1,0 +1,14 @@
+problématique : dans quelle mesure peut-on modéliser les feux de foret par des principes de percolation ?
+
+I) la percolation : définition, histoire
+II) exemples d'application
+III) le gros du sujet : les feux de foret
+
+1) les maths du sujet (crotti pour la base, culture ens pour approfondir, bien réviser les notions de proba sa race)
+2) distinguer percolation par site et percolation par lien : la réalité tient surement compte des deux
+3) première approche informatique : premiers résultats (graphe représentant la taille d'éventuels clusters selon p OU l'apparition de clusteurs selon p, etc...)
+4) interprétation : on confirme l'aspect mathématique, mais ça manque de réalisme...
+5) l'ajout du facteur temps dans python, modélisation du vent et de la présence d'éléments inflammables, modélisation des différents moyens de propagation
+du feu en plus de la percolation (éclats, convection, etc...)
+6) nouvelle simulation (terrain + vaste) et remarques
+7) comment on pourrait aller plus loin ? (un programme qui à partir d'une photo ou d'un schéma en temps réel prédit la propagation du bailzer)

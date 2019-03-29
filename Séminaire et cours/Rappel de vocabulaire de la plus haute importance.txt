@@ -1,0 +1,8 @@
+Seuil de percolation par site sur L2 : 0.59
+Seuil de percolation par lien sur L2 : 0.5
+
+La percolation par site consiste à considérer que la forêt est crée de manière aléatoire (on joue sur
+la densité), donc les liens sont tous fixés à 1.
+La percolation par liens désigne le fait que la probabilité porte sur l'activité des liens ou non.
+
+A RETENIR, VRAIMENT IMPORTANT

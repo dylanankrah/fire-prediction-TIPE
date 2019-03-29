@@ -1,0 +1,3 @@
+Pour rendre mieux compte du phénomène de vent/humidité, on lance d'abord l'exp sur
+une map en paramètre 1,1 (i.e pas de percolation responsable), puis on mixe (cf. les screens dans
+les dossiers)

@@ -1,0 +1,19 @@
+http://dragly.org/2013/03/25/working-with-percolation-clusters-in-python/
+http://culturemath.ens.fr/maths/pdf/proba/percolation.pdf
+https://openclassrooms.com/forum/sujet/modelisation-du-vent-percolation-feu-de-foret
+https://openclassrooms.com/forum/sujet/percolation-et-feu-de-foret
+https://fr.wikipedia.org/wiki/Incendie
+https://openclassrooms.com/courses/la-percolation
+http://docnum.univ-lorraine.fr/public/INPL_T_1998_MARGERIT_J.pdf
+http://math.univ-lyon1.fr/irem/IMG/pdf/images-2.pdf ## POUR L'EXTRACTION D'UNE CARTE EN TEMPS REEL
+http://www.lemonde.fr/international/article/2003/06/10/modeliser-le-vent-pour-mieux-lutter-contre-les-feux-de-foret_323373_3210.html
+
+http://matplotlib.org/examples/color/colormaps_reference.html (colormaps)
+http://stackoverflow.com/questions/12243803/python-get-image-matrix-pil
+http://www.coriolis.polytechnique.fr/Confs/Dupuy_conf.pdf
+http://documents.irevues.inist.fr/bitstream/handle/2042/52764/a_271GCD7Y.pdf?sequence=1
+crotti aussi normiche, voir les pdf en +
+
+Références : crotti, cultureENS, un cours real quick sur les graphes, l’un des trois pdf lourds,  https://fr.wikipedia.org/wiki/Incendie, 
+
+https://www.cs.umd.edu/~mount/Indep/Steven_Dobek/dobek-stable-fluid-final-2012.pdf DU LOURD pour navierstokes
