@@ -1,5 +1,5 @@
 """ * Note : ce fichier a pour intérêt de recenser les paramètres demandés par les fonctions appelées plus particulièrement que les autres.
-    * Note #2 : galal
+    * Note #2 :
     """
 
 """ Simulate : (n,m,d,p,mode,wind,hMap) """
